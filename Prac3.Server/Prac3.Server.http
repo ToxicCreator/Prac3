@@ -1,0 +1,6 @@
+@Prac3.Server_HostAddress = http://localhost:5105
+
+GET {{Prac3.Server_HostAddress}}/api/
+Accept: application/json
+
+###
